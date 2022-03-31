@@ -2,10 +2,10 @@
 
 ## [Notification!] MUST-DO for your attendance <- Students abroad
 
-> To officially record your attendance for all the class, do the following things for every class.
+> To officially record your attendance for all the class, do the following things every week.
 >* Step 1. Visit jnuclass(https://jnuclass.jejunu.ac.kr/) and log in.
 >* Step 2. Select the class of '딥 러닝 응용 A7602' (deep learning applications) 
->* Step 3. Take the all classes 
+>* Step 3. Take the classes  
 FYI, there is a homework for each class, but you can ignore it. 
 
 ## [Notification!] MUST-DO for your attendance <- All students
